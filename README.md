@@ -40,7 +40,7 @@ Hardware QA platform for the MSP430FR2355. Streams live telemetry over UART to a
 
 **[Edward](https://github.com/dannyjtaylor/IBM-Bob-Hackathon-Edward)**
 
-Desktop AI assistant built for the IBM Bob hackathon. Dry-witted, voice-enabled, and locally hosted. Started as a side project and ended up living on as the chat interface inside Testbench.
+Team entry for the IBM Bob hackathon. A dry-witted, voice-enabled desktop AI assistant running locally on Ollama. The concept carried forward into Testbench as its built-in troubleshooting chat interface.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-052FAD?style=flat-square&logo=ibm&logoColor=white)
