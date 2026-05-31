@@ -14,9 +14,9 @@
 
 ## About Me
 
-Computer Engineering student at the University of South Florida. I build things end-to-end — C firmware on microcontrollers, full-stack web dashboards, and AI pipelines.
+Computer Engineering student at the University of South Florida. I work across the full stack, from C firmware on microcontrollers to web apps and AI integrations.
 
-Currently a **Smart City Student Volunteer** at the City of Winter Haven Technology Services, working on server hardware and early-stage AI hosting infrastructure.
+Currently a **Smart City Student Volunteer** at the City of Winter Haven Technology Services, working on server hardware, IT support, and AI hosting infrastructure.
 
 ---
 
@@ -24,21 +24,10 @@ Currently a **Smart City Student Volunteer** at the City of Winter Haven Technol
 
 | | |
 |---|---|
-| **University of South Florida** — Tampa, FL | |
+| **University of South Florida**, Tampa, FL | |
 | B.S. Computer Engineering · Dean's List · Gold's Scholars | GPA: 3.52 · Fall 2026 |
-| **Florida SouthWestern State College** — Punta Gorda, FL | |
+| **Florida SouthWestern State College**, Punta Gorda, FL | |
 | Associate in Arts · Dean's List | GPA: 3.86 |
-
----
-
-## Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Testbench**](https://github.com/JacksonBopp/testbench) | Hardware test automation — MSP430 telemetry → MQTT → Next.js dashboard with AI failure analysis and CI/CD pipeline | Next.js, TypeScript, Python, C, PostgreSQL, Docker, IBM watsonx.ai |
-| **Edward** | AI desktop agent — Iron Man UI, ElevenLabs voice pipeline, computer control, encrypted vault | Python, PyQt6, FastAPI, ElevenLabs, Gemini |
-| **VoiceLegacy** | Hackathon — preserve voices with AI rewrite and TTS | Next.js, MongoDB Atlas, ElevenLabs, Gemini |
-| **Pi NAS** | Multi-user NAS on a Raspberry Pi Zero 2 W with Samba, auth, and persistent mount points | Raspberry Pi, Linux, Samba, Python |
 
 ---
 
