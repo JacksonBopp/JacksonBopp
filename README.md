@@ -27,7 +27,7 @@ I also like reading, gaming, cats, anime, and Magic the Gathering!
 
 **[Testbench](https://github.com/JacksonBopp/testbench)**
 
-Hardware QA platform for the MSP430FR2355. Streams live telemetry over UART to a Raspberry Pi, bridges it via MQTT to a Next.js dashboard, and runs AI root cause analysis on failed test runs.
+Hardware QA platform for my MSP430FR2355. Streams live telemetry over UART to a Raspberry Pi, bridges it via MQTT to a Next.js dashboard, and runs AI root cause analysis on failed test runs.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
