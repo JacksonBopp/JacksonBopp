@@ -54,7 +54,7 @@ Team entry for the IBM Bob hackathon. A dry-witted, voice-enabled desktop AI ass
 
 **[VoiceLegacy](https://github.com/ntoptchi/VoiceLegacy)**
 
-AI voice preservation tool. Clone and archive a person's voice so it can be carried forward. Built around ElevenLabs voice cloning with a simple interface for recording, storing, and replaying.
+Team entry for Hackabull at USF. A voice preservation tool that clones and archives a person's voice using ElevenLabs, with a simple interface for recording, storing, and replaying.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
