@@ -14,7 +14,7 @@
 
 ## About Me
 
-Rising junior studying Computer Engineering at the University of South Florida. I build things end-to-end — C firmware on microcontrollers, full-stack web dashboards, and AI pipelines.
+Computer Engineering student at the University of South Florida. I build things end-to-end — C firmware on microcontrollers, full-stack web dashboards, and AI pipelines.
 
 Currently a **Smart City Student Volunteer** at the City of Winter Haven Technology Services, working on server hardware and early-stage AI hosting infrastructure.
 
