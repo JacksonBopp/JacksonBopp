@@ -7,6 +7,7 @@
 <p align="center">
   <a href="mailto:boppjackson@gmail.com"><img src="https://img.shields.io/badge/Gmail-boppjackson%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/jbopp"><img src="https://img.shields.io/badge/LinkedIn-jbopp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://instagram.com/JacksonBopp"><img src="https://img.shields.io/badge/Instagram-JacksonBopp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=JacksonBopp&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS" />
 </p>
 
