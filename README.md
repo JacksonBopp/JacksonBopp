@@ -38,7 +38,7 @@ Hardware QA platform for the MSP430FR2355. Streams live telemetry over UART to a
 </td>
 <td width="50%" valign="top">
 
-**[Edward](https://github.com/JacksonBopp/edward)**
+**[Edward](https://github.com/dannyjtaylor/IBM-Bob-Hackathon-Edward)**
 
 Desktop AI assistant built for the IBM Bob hackathon. Dry-witted, voice-enabled, and locally hosted. Started as a side project and ended up living on as the chat interface inside Testbench.
 
@@ -52,7 +52,7 @@ Desktop AI assistant built for the IBM Bob hackathon. Dry-witted, voice-enabled,
 <tr>
 <td width="50%" valign="top">
 
-**[VoiceLegacy](https://github.com/JacksonBopp/voicelegacy)**
+**[VoiceLegacy](https://github.com/ntoptchi/VoiceLegacy)**
 
 AI voice preservation tool. Clone and archive a person's voice so it can be carried forward. Built around ElevenLabs voice cloning with a simple interface for recording, storing, and replaying.
 
