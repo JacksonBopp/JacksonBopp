@@ -13,9 +13,9 @@
 
 ---
 
-Computer Engineering student at USF. Most of what I build has a microcontroller on one end and a web dashboard on the other, usually with some AI in the middle. Smart City volunteer at the City of Winter Haven, working on server hardware and AI hosting infrastructure.
+Computer Engineering student at USF. Most of my projects live somewhere between embedded systems and web apps, with AI filling in the gaps. Right now I'm volunteering with the City of Winter Haven helping set up server hardware and AI hosting infrastructure. Graduating Fall 2026 and open to relocate.
 
-I also like reading.
+I also like reading, gaming, cats, anime, and Magic the Gathering!
 
 ---
 
