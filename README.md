@@ -25,7 +25,7 @@ I also like reading, gaming, cats, anime, and Magic the Gathering!
 <tr>
 <td width="50%" valign="top">
 
-**[Testbench](https://github.com/JacksonBopp/testbench)**
+**[Testbench](https://github.com/JacksonBopp/testbench)** &nbsp;·&nbsp; [live](https://testbench.up.railway.app)
 
 Hardware QA platform for my MSP430FR2355. Streams live telemetry over UART to a Raspberry Pi, bridges it via MQTT to a Next.js dashboard, and runs AI root cause analysis on failed test runs.
 
