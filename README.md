@@ -25,9 +25,9 @@ I also like reading, gaming, cats, anime, and Magic the Gathering!
 <tr>
 <td width="50%" valign="top">
 
-**[Testbench](https://github.com/JacksonBopp/testbench)** &nbsp;·&nbsp; [live](https://testbench.up.railway.app)
+**[Testbench](https://github.com/JacksonBopp/testbench)**
 
-Hardware QA platform for my MSP430FR2355. Streams live telemetry over UART to a Raspberry Pi, bridges it via MQTT to a Next.js dashboard, and runs AI root cause analysis on failed test runs.
+Hardware-agnostic test automation platform. Any UART-capable MCU drops in via a JSON-over-UART protocol — the repo ships four reference firmwares (MSP430FR2355, ESP32, STM32F103C8, RP2040) plus a software-only simulator. A Raspberry Pi bridge streams telemetry over MQTT into a Next.js dashboard with AI root-cause analysis and a built-in troubleshooting chat.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -38,14 +38,39 @@ Hardware QA platform for my MSP430FR2355. Streams live telemetry over UART to a 
 </td>
 <td width="50%" valign="top">
 
-**[Edward](https://github.com/dannyjtaylor/IBM-Bob-Hackathon-Edward)**
+**[Radiology Second-Opinion Agent](https://github.com/JacksonBopp/radiology-second-opinion-agent)**
 
-Team entry for the IBM Bob hackathon. A dry-witted, voice-enabled desktop AI assistant running locally on Ollama. The concept carried forward into Testbench as its built-in troubleshooting chat interface.
+4-person team build (Data & MLOps role). A CV model flags pathologies in chest X-rays, an agentic LangGraph layer cross-references similar cases and literature, and an LLM synthesizes a structured report with ranked diagnoses and confidence scores. Shipped with MLflow model tracking, Evidently drift monitoring, and Kubernetes manifests for deployment.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-333333?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Backstop](https://iio-seven.vercel.app)** &nbsp;·&nbsp; [repo](https://github.com/JacksonBopp/backstop)
+
+A Zendesk app that measures the hidden workload AI-assisted replies create: the time agents spend verifying, correcting, or overriding AI-generated responses. One-click ticket flagging, per-team verification dashboards, and load-concentration alerts surface a cost most AI rollouts never measure.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[Decision Engine](https://github.com/JacksonBopp/decision-engine)**
+
+Multi-tenant job scheduler simulator. Takes a resource pool and job queue as JSON and produces a schedule with allocations, utilization/fairness metrics, and a full event log — modeling priority scheduling, deadline tracking, and tenant quotas over labeled resources like a CI runner fleet or GPU lab.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -62,7 +87,18 @@ Team entry for Hackabull at USF. A voice preservation tool that clones and archi
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+**[Edward](https://github.com/dannyjtaylor/IBM-Bob-Hackathon-Edward)**
+
+Team entry for the IBM Bob hackathon. A dry-witted, voice-enabled desktop AI assistant running locally on Ollama. The concept carried forward into Testbench as its built-in troubleshooting chat interface.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-333333?style=flat-square&logoColor=white)
+
+</td>
 </tr>
 </table>
 
@@ -90,7 +126,9 @@ Team entry for Hackabull at USF. A voice preservation tool that clones and archi
 **Tools & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -101,6 +139,7 @@ Team entry for Hackabull at USF. A voice preservation tool that clones and archi
 **AI / LLM**
 
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![IBM watsonx](https://img.shields.io/badge/IBM_watsonx-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
