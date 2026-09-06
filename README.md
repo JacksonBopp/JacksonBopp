@@ -27,7 +27,7 @@ I also like reading, gaming, cats, anime, and Magic the Gathering!
 
 **[Testbench](https://github.com/JacksonBopp/testbench)**
 
-Hardware-agnostic test automation platform. Any UART-capable MCU drops in via a JSON-over-UART protocol — the repo ships four reference firmwares (MSP430FR2355, ESP32, STM32F103C8, RP2040) plus a software-only simulator. A Raspberry Pi bridge streams telemetry over MQTT into a Next.js dashboard with AI root-cause analysis and a built-in troubleshooting chat.
+Hardware-agnostic test automation platform. Any UART-capable MCU drops in via a JSON-over-UART protocol. The repo ships five reference firmwares (MSP430FR2355, ESP32, STM32F103C8, RP2040, nRF52840/Zephyr) plus a software-only simulator. A Raspberry Pi bridge streams telemetry over MQTT into a Next.js dashboard with AI root-cause analysis and a built-in troubleshooting chat.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -68,7 +68,7 @@ A Zendesk app that measures the hidden workload AI-assisted replies create: the 
 
 **[Decision Engine](https://github.com/JacksonBopp/decision-engine)**
 
-Multi-tenant job scheduler simulator. Takes a resource pool and job queue as JSON and produces a schedule with allocations, utilization/fairness metrics, and a full event log — modeling priority scheduling, deadline tracking, and tenant quotas over labeled resources like a CI runner fleet or GPU lab.
+Multi-tenant job scheduler simulator. Takes a resource pool and job queue as JSON and produces a schedule with allocations, utilization/fairness metrics, and a full event log, modeling priority scheduling, deadline tracking, and tenant quotas over labeled resources like a CI runner fleet or GPU lab.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
